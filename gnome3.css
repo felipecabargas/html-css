@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu);
+
+body {
+	color:#2C2C2C;
+	font-family: ubuntu;
+	color: white;
+	font-size:1em;
+	background-attachment: scroll;
+    	background-clip: border-box;
+    	background-color: transparent;
+    	background-image: url("http://felipecabargas.tk/images/stripes-regular.jpg");
+    	background-origin: border-box;
+	background-position: 0 0;
+    	background-repeat: repeat;
+    	background-size: cover;
+}
+				
+content {
+	border: 1px solid rgba(255, 255, 255, 0.5);
+	background-color: rgba(0, 0, 0, 0.8);
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	font-size:16px;
+	text-align: center;
+	color: white;
+	position:absolute;
+	left: 50%;
+	top: 40%;
+	height:290px;
+	margin-top:-130px;
+	width:1000px;
+	margin-left:-500px;
+}
+A:link {
+	text-decoration: none;
+	color: white;
+}
+A:visited {
+	text-decoration: none;
+	color: white;
+}
+A:hover {
+	text-decoration: none;
+	color: white;
+}		
